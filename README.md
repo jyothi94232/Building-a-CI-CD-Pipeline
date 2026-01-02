@@ -23,8 +23,9 @@
 <img width="914" height="145" alt="Screenshot 2026-01-02 at 2 41 05 PM" src="https://github.com/user-attachments/assets/5d4080c5-45a7-47d8-9fd2-37da3e85e982" />
 
 * Project cloned into Azure Cloud Shell
-  <img width="1109" height="455" alt="Screenshot 2025-10-19 at 1 30 46 PM" src="https://github.com/user-attachments/assets/6330201d-69a2-4dac-9841-87407e55b159" />
-  <img width="965" height="177" alt="Screenshot 2025-10-19 at 1 32 23 PM" src="https://github.com/user-attachments/assets/b12de6d2-5edb-40b8-becf-b181ae6d3b2d" />
+<img width="2160" height="788" alt="image" src="https://github.com/user-attachments/assets/6770f0ce-fb20-4523-9449-23b91cfebe05" />
+<img width="914" height="145" alt="Screenshot 2026-01-02 at 2 41 05 PM" src="https://github.com/user-attachments/assets/3f88fec3-6f1c-49b1-b3ac-d5f6a7aca4a0" />
+
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 <img width="1172" height="80" alt="image" src="https://github.com/user-attachments/assets/c8a6536c-48a9-418d-9dd3-2c39f756f5d8" />
