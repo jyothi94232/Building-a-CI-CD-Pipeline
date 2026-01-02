@@ -19,8 +19,7 @@
 ## Instructions
 
 * Project running on Azure App Service
- <img width="1080" height="394" alt="Screenshot 2026-01-02 at 2 40 39 PM" src="https://github.com/user-attachments/assets/a8bbc548-ac36-433d-a637-330591a58f5a" />
-<img width="914" height="145" alt="Screenshot 2026-01-02 at 2 41 05 PM" src="https://github.com/user-attachments/assets/5d4080c5-45a7-47d8-9fd2-37da3e85e982" />
+
 
 * Project cloned into Azure Cloud Shell
 <img width="2160" height="788" alt="image" src="https://github.com/user-attachments/assets/6770f0ce-fb20-4523-9449-23b91cfebe05" />
