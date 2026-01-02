@@ -2,7 +2,8 @@
 
 # Overview
 * Architectural Diagram 
-<img width="896" height="463" alt="Screenshot 2025-10-19 at 2 44 39 PM" src="https://github.com/user-attachments/assets/98e4b7f2-74a9-4931-877c-b197afb52c8c" />
+<img width="1676" height="908" alt="image" src="https://github.com/user-attachments/assets/744de9a3-922b-4902-9ed2-2a8c3ff290d9" />
+
 
 
 ## Project Plan
