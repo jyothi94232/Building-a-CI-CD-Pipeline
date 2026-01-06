@@ -25,5 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST https://skveerapaneni-flaskpipelines.azurewebsites.net:$PORT/predict 
+     -X POST https://jl-flaskpipelines.azurewebsites.net/:$PORT/predict 
     
